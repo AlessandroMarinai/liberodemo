@@ -448,6 +448,7 @@ section i{
     font-size: 1rem;
     font-family: 'PT Sans', sans-serif;
     letter-spacing: -.33px;
+    text-decoration: none;
 }
 
 .sect-2 li{
